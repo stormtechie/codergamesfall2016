@@ -1,0 +1,262 @@
+html, body
+{
+    height:100%;
+}
+body
+{
+    background-color:black;
+}
+#one
+{
+    height:8%;
+    margin:auto;
+    width:70%;
+    font-family: 'Frijole', cursive;
+    font-size: 2em;
+    text-align: center;
+    color:chartreuse;
+}
+#two
+{
+    position:relative;
+    top:-2%;
+    margin:auto;
+    height:20%;
+    width:12%;
+}
+img
+{
+    height:100%;
+}
+#main
+{
+    
+    
+    height:25%;
+    width:42%;
+    margin:auto;
+}
+#three
+{
+    margin-left:1.5%;
+    width:32%;
+    height:95%;
+    display:inline-block;
+}
+#four
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+}
+#five
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+}
+#main2
+{
+    position:relative;
+    top:-4%;
+    height:12%;
+    width:42%;
+    margin:auto;
+    overflow: hidden;
+    
+}
+#six
+{
+    margin-left:1.5%;
+    width:32%;
+    height:95%;
+    display:inline-block;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+    color:white;
+   
+}
+#seven
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+    color:white;
+}
+#eight
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+    color:white;
+}
+.remotes
+{
+     height:20%;
+    width:90%;
+    margin:auto;
+    margin-left: 150px;
+    
+}
+
+
+.imgdiv
+{
+    width:15.5%;
+    height:95%;
+    display:inline-block;
+  
+}
+.names
+{
+    height:10%;
+    width:90%;
+    margin:auto;
+    font-family: 'Frijole', cursive;
+    color:white;
+    margin-left: 125px;
+}
+.chcl:hover
+{
+    color:chartreuse;
+}
+.districts
+{
+    width:15.5%;
+    display:inline-block;
+    text-align: center;
+    height:95%;
+   
+}
+
+#main5, #main52, #main53
+{
+    margin-top:-1%;
+    height:6%;
+    margin:auto;
+    width:90%;
+    font-family: 'Frijole', cursive;
+    margin-left: 125px;
+}
+.formme
+{
+    
+    width:15.5%;
+    display:inline-block;
+    text-align: center;
+    }
+
+select
+{
+    font-size: 1.5em;
+}
+#ma
+{
+    
+    
+    height:25%;
+    width:42%;
+    margin:auto;
+}
+#th
+{
+    margin-left:1.5%;
+    width:32%;
+    height:95%;
+    display:inline-block;
+}
+#fo
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+}
+#fi
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+}
+#ma2
+{
+    position:relative;
+    top:-4%;
+    height:12%;
+    width:42%;
+    margin:auto;
+    overflow: hidden;
+    
+}
+#si
+{
+    margin-left:1.5%;
+    width:32%;
+    height:95%;
+    display:inline-block;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+    color:white;
+   
+}
+#tw
+{
+    margin:auto;
+    height:20%;
+    width:12%;
+}
+#se
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+    color:white;
+}
+#ei
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+    color:white;
+}
+#word
+{
+    color:white;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+}
+.red
+{
+    color:red;
+}
+a
+{
+    color:chartreuse;
+}
+#score
+{
+    width:35%;
+    font-family: 'Frijole', cursive;
+    font-size: 2em;
+    margin:auto;
+    position:relative;
+    top:-3.5%;
+}
+#score:visited
+{
+    color:chartreuse;
+}

@@ -1,0 +1,90 @@
+html, body
+{
+    height:100%;
+}
+body
+{
+    background-color:black;
+}
+#ma
+{
+    
+    
+    height:25%;
+    width:42%;
+    margin:auto;
+}
+#th
+{
+    margin-left:1.5%;
+    width:32%;
+    height:95%;
+    display:inline-block;
+}
+#fo
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+}
+#fi
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+}
+#ma2
+{
+    position:relative;
+    top:-4%;
+    height:12%;
+    width:42%;
+    margin:auto;
+    overflow: hidden;
+    
+}
+#si
+{
+    margin-left:1.5%;
+    width:32%;
+    height:95%;
+    display:inline-block;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+    color:white;
+   
+}
+#tw
+{
+    margin:auto;
+    height:20%;
+    width:12%;
+}
+#se
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+    color:white;
+}
+#ei
+{
+    width:32%;
+    height:95%;
+    display:inline-block;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+    color:white;
+}
+#word
+{
+    color:white;
+    font-family: 'Press Start 2P', cursive;
+    font-size:3em;
+    text-align: center;
+}
